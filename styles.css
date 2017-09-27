@@ -1,0 +1,206 @@
+.body{
+    background-image: url("http://www.hdwallpapers.in/download/splendid_city_view-1920x1080.jpg") ;
+    background-repeat: no-repeat;
+}
+.header{
+    width: 1300px;
+    height: 200px;
+    margin: 25px;
+    padding: 20px;
+    background-color: #aaffb5;
+    border-style: groove;
+    border-color: black;
+}
+.menu{
+    width: 300px;
+    height: 200px;
+    margin: 25px;
+    padding: 10px;
+    text-align: left;
+    background-color: #aaffb5;
+    border-style: groove;
+    border-color: black;
+    display: inline-block;
+    font-family: "Arial Black", sans-serif;
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 1px;
+    position: absolute;
+    top: 300px;
+
+}
+.box1{
+    width: 300px;
+    height: 200px;
+    margin: 25px;
+    padding: 10px;
+    text-align: left;
+    background-color: #aaffb5;
+    border-style: groove;
+    border-color: black;
+    display: inline-block;
+    font-family: "Arial Black", sans-serif;
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 1px;
+    position: relative;
+    top: 193px;
+}
+.box2 {
+    width: 600px;
+    height: 500px;
+    margin: 25px;
+    padding: 20px;
+    background-color: #aaffb5;
+    border-style: groove;
+    border-color: black;
+    display: inline-block;
+    font-family: "Arial Black", sans-serif;
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 1px;
+    text-align: center;
+}
+.box3 {
+    width: 225px;
+    height: 500px;
+    margin: 25px;
+    padding: 20px;
+    background-color: #aaffb5;
+    border-style: groove;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    font-family: "Arial Black", sans-serif;
+    font-size: 1.3rem;
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 1px;
+
+
+
+}
+
+.copyright{
+    width: 1300px;
+    height: 60px;
+    margin: 25px;
+    padding: 20px;
+    text-align: center;
+    background-color: #aaffb5;
+    border-style: groove;
+    border-color: black;
+    font-family: "Arial Black", sans-serif;
+    font-size: 1.3rem;
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 1px;
+}
+.filmpje{
+    position: absolute;
+    left: 45px;
+    top: 665px;
+}
+
+.ad{
+    width: 240px;
+    height: 520px;
+    position: absolute;
+    right: 160px;
+    top: 330px;
+    z-index: 1;
+
+}
+div > img{
+    width: 1300px;
+    height: 200px;
+    position: relative;
+}
+
+.titel{
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+
+}
+
+
+.article{
+    text-align: center;
+}
+
+
+
+
+h1{
+    font-family: "Arial Black", sans-serif;
+    font-size: 1.8rem;
+    font-style: normal;
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000000;
+}
+
+nav ul{
+    border-top: double 3px black;
+    text-align: center;
+    font-family: "Arial Black", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 800;
+    font-style: normal;
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+
+
+}
+
+nav ul li{
+    float: top;
+    padding: 0px 30px;
+    list-style-type:none;
+    border-bottom: solid 1px #8e8e8e;
+
+}
+
+nav ul li a:hover,
+nav ul li a:focus
+{
+    color: #fff;
+    background: rgb(199, 15, 0);
+}
+
+.container2{
+    width: 1300px;
+    height: 50px;
+    display: flex;
+    flex-flow: row;
+    min-width: 100px;
+
+}
+
+.gegevens {
+    width: 1300px;
+    height: 50px;
+    position: relative;
+    top: -20px;
+}
+
+.gegevens1{
+    flex: 0 1 auto;
+    height: 50px;
+    width: 650px;
+
+}
+.gegevens2{
+    flex: 0 1 auto;
+    height: 50px;
+    width: 650px;
+
+}
+.gegevens3{
+    flex: 0 1 auto;
+    height: 50px;
+    width: 650px;
+
+}
